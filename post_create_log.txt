@@ -2,3 +2,252 @@ ERROR: Could not open requirements file: [Errno 2] No such file or directory: 'r
 
 [notice] A new release of pip is available: 23.0.1 -> 24.0
 [notice] To update, run: pip install --upgrade pip
+Collecting aiohttp==3.9.5
+  Downloading aiohttp-3.9.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.3/1.3 MB 15.1 MB/s eta 0:00:00
+Collecting aiosignal==1.3.1
+  Downloading aiosignal-1.3.1-py3-none-any.whl (7.6 kB)
+Collecting asttokens==2.4.1
+  Downloading asttokens-2.4.1-py2.py3-none-any.whl (27 kB)
+Collecting async-timeout==4.0.3
+  Downloading async_timeout-4.0.3-py3-none-any.whl (5.7 kB)
+Collecting attrs==23.2.0
+  Downloading attrs-23.2.0-py3-none-any.whl (60 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 60.8/60.8 kB 2.8 MB/s eta 0:00:00
+Collecting backcall==0.2.0
+  Downloading backcall-0.2.0-py2.py3-none-any.whl (11 kB)
+Collecting bidict==0.22.1
+  Downloading bidict-0.22.1-py3-none-any.whl (35 kB)
+Collecting branca==0.7.2
+  Downloading branca-0.7.2-py3-none-any.whl (25 kB)
+Collecting certifi==2024.6.2
+  Downloading certifi-2024.6.2-py3-none-any.whl (164 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 164.4/164.4 kB 8.9 MB/s eta 0:00:00
+Collecting charset-normalizer==3.3.2
+  Downloading charset_normalizer-3.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (141 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 141.1/141.1 kB 6.4 MB/s eta 0:00:00
+Collecting chat-agent==0.1.6.7
+  Downloading chat_agent-0.1.6.7-py3-none-any.whl (84 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 84.8/84.8 kB 4.6 MB/s eta 0:00:00
+Collecting click==8.1.7
+  Downloading click-8.1.7-py3-none-any.whl (97 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 97.9/97.9 kB 3.8 MB/s eta 0:00:00
+Collecting comm==0.2.2
+  Downloading comm-0.2.2-py3-none-any.whl (7.2 kB)
+Collecting contourpy==1.1.1
+  Downloading contourpy-1.1.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (301 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 301.1/301.1 kB 10.5 MB/s eta 0:00:00
+Collecting cycler==0.12.1
+  Downloading cycler-0.12.1-py3-none-any.whl (8.3 kB)
+Collecting debugpy==1.8.1
+  Downloading debugpy-1.8.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (3.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 3.1/3.1 MB 9.9 MB/s eta 0:00:00
+Collecting decorator==5.1.1
+  Downloading decorator-5.1.1-py3-none-any.whl (9.1 kB)
+Collecting dnspython==2.6.1
+  Downloading dnspython-2.6.1-py3-none-any.whl (307 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 307.7/307.7 kB 11.4 MB/s eta 0:00:00
+Collecting eventlet==0.33.3
+  Downloading eventlet-0.33.3-py2.py3-none-any.whl (226 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 226.8/226.8 kB 5.9 MB/s eta 0:00:00
+Collecting executing==2.0.1
+  Downloading executing-2.0.1-py2.py3-none-any.whl (24 kB)
+Collecting Flask==2.2.5
+  Downloading Flask-2.2.5-py3-none-any.whl (101 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 101.8/101.8 kB 5.2 MB/s eta 0:00:00
+Collecting Flask-Cors==3.0.10
+  Downloading Flask_Cors-3.0.10-py2.py3-none-any.whl (14 kB)
+Collecting Flask-SocketIO==5.3.6
+  Downloading Flask_SocketIO-5.3.6-py3-none-any.whl (18 kB)
+Collecting folium==0.17.0
+  Downloading folium-0.17.0-py2.py3-none-any.whl (108 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 108.4/108.4 kB 3.8 MB/s eta 0:00:00
+Collecting fonttools==4.53.0
+  Downloading fonttools-4.53.0-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (4.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.7/4.7 MB 19.4 MB/s eta 0:00:00
+Collecting frozenlist==1.4.1
+  Downloading frozenlist-1.4.1-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (240 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 240.9/240.9 kB 7.6 MB/s eta 0:00:00
+Collecting gevent==22.10.2
+  Downloading gevent-22.10.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (6.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 6.5/6.5 MB 16.9 MB/s eta 0:00:00
+Collecting gevent-websocket==0.10.1
+  Downloading gevent_websocket-0.10.1-py3-none-any.whl (22 kB)
+Collecting greenlet==3.0.3
+  Downloading greenlet-3.0.3-cp38-cp38-manylinux_2_24_x86_64.manylinux_2_28_x86_64.whl (622 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 622.3/622.3 kB 13.2 MB/s eta 0:00:00
+Collecting idna==3.7
+  Downloading idna-3.7-py3-none-any.whl (66 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 66.8/66.8 kB 2.2 MB/s eta 0:00:00
+Collecting importlib_metadata==7.1.0
+  Downloading importlib_metadata-7.1.0-py3-none-any.whl (24 kB)
+Collecting importlib_resources==6.4.0
+  Downloading importlib_resources-6.4.0-py3-none-any.whl (38 kB)
+Collecting ipykernel==6.29.4
+  Downloading ipykernel-6.29.4-py3-none-any.whl (117 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 117.1/117.1 kB 4.4 MB/s eta 0:00:00
+Collecting ipython==8.12.3
+  Downloading ipython-8.12.3-py3-none-any.whl (798 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 798.3/798.3 kB 20.5 MB/s eta 0:00:00
+Collecting itsdangerous==2.2.0
+  Downloading itsdangerous-2.2.0-py3-none-any.whl (16 kB)
+Collecting jedi==0.19.1
+  Downloading jedi-0.19.1-py2.py3-none-any.whl (1.6 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.6/1.6 MB 27.5 MB/s eta 0:00:00
+Collecting Jinja2==3.1.4
+  Downloading jinja2-3.1.4-py3-none-any.whl (133 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 133.3/133.3 kB 5.4 MB/s eta 0:00:00
+Collecting joblib==1.4.2
+  Downloading joblib-1.4.2-py3-none-any.whl (301 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 301.8/301.8 kB 13.0 MB/s eta 0:00:00
+Collecting jupyter_client==8.6.2
+  Downloading jupyter_client-8.6.2-py3-none-any.whl (105 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 105.9/105.9 kB 6.2 MB/s eta 0:00:00
+Collecting jupyter_core==5.7.2
+  Downloading jupyter_core-5.7.2-py3-none-any.whl (28 kB)
+Collecting kiwisolver==1.4.5
+  Downloading kiwisolver-1.4.5-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.whl (1.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 14.2 MB/s eta 0:00:00
+Collecting MarkupSafe==2.1.5
+  Downloading MarkupSafe-2.1.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (26 kB)
+Collecting matplotlib==3.7.5
+  Downloading matplotlib-3.7.5-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (9.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 9.2/9.2 MB 15.9 MB/s eta 0:00:00
+Collecting matplotlib-inline==0.1.7
+  Downloading matplotlib_inline-0.1.7-py3-none-any.whl (9.9 kB)
+Collecting multidict==6.0.5
+  Downloading multidict-6.0.5-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (129 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 129.3/129.3 kB 2.9 MB/s eta 0:00:00
+Collecting nest-asyncio==1.6.0
+  Downloading nest_asyncio-1.6.0-py3-none-any.whl (5.2 kB)
+Collecting numpy==1.24.4
+  Downloading numpy-1.24.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (17.3 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 17.3/17.3 MB 8.9 MB/s eta 0:00:00
+Collecting openai==0.27.10
+  Downloading openai-0.27.10-py3-none-any.whl (76 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 76.5/76.5 kB 991.8 kB/s eta 0:00:00
+Collecting packaging==24.1
+  Downloading packaging-24.1-py3-none-any.whl (53 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 54.0/54.0 kB 1.4 MB/s eta 0:00:00
+Collecting pandas==2.0.3
+  Downloading pandas-2.0.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (12.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 12.4/12.4 MB 10.0 MB/s eta 0:00:00
+Collecting parso==0.8.4
+  Downloading parso-0.8.4-py2.py3-none-any.whl (103 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.7/103.7 kB 2.4 MB/s eta 0:00:00
+Collecting pexpect==4.9.0
+  Downloading pexpect-4.9.0-py2.py3-none-any.whl (63 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 63.8/63.8 kB 936.0 kB/s eta 0:00:00
+Collecting pickleshare==0.7.5
+  Downloading pickleshare-0.7.5-py2.py3-none-any.whl (6.9 kB)
+Collecting pillow==10.3.0
+  Downloading pillow-10.3.0-cp38-cp38-manylinux_2_28_x86_64.whl (4.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 4.5/4.5 MB 15.7 MB/s eta 0:00:00
+Collecting platformdirs==4.2.2
+  Downloading platformdirs-4.2.2-py3-none-any.whl (18 kB)
+Collecting plotly==5.22.0
+  Downloading plotly-5.22.0-py3-none-any.whl (16.4 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 16.4/16.4 MB 11.7 MB/s eta 0:00:00
+Collecting prompt_toolkit==3.0.47
+  Downloading prompt_toolkit-3.0.47-py3-none-any.whl (386 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 386.4/386.4 kB 12.2 MB/s eta 0:00:00
+Collecting psutil==5.9.8
+  Downloading psutil-5.9.8-cp36-abi3-manylinux_2_12_x86_64.manylinux2010_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (288 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 288.2/288.2 kB 5.0 MB/s eta 0:00:00
+Collecting ptyprocess==0.7.0
+  Downloading ptyprocess-0.7.0-py2.py3-none-any.whl (13 kB)
+Collecting pure-eval==0.2.2
+  Downloading pure_eval-0.2.2-py3-none-any.whl (11 kB)
+Collecting Pygments==2.18.0
+  Downloading pygments-2.18.0-py3-none-any.whl (1.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 18.5 MB/s eta 0:00:00
+Collecting pyparsing==3.1.2
+  Downloading pyparsing-3.1.2-py3-none-any.whl (103 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 103.2/103.2 kB 3.4 MB/s eta 0:00:00
+Collecting python-dateutil==2.9.0.post0
+  Downloading python_dateutil-2.9.0.post0-py2.py3-none-any.whl (229 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 229.9/229.9 kB 7.6 MB/s eta 0:00:00
+Collecting python-engineio==4.4.1
+  Downloading python_engineio-4.4.1-py3-none-any.whl (53 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 53.4/53.4 kB 1.6 MB/s eta 0:00:00
+Collecting python-socketio==5.8.0
+  Downloading python_socketio-5.8.0-py3-none-any.whl (56 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 57.0/57.0 kB 2.3 MB/s eta 0:00:00
+Collecting pytz==2024.1
+  Downloading pytz-2024.1-py2.py3-none-any.whl (505 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 505.5/505.5 kB 6.2 MB/s eta 0:00:00
+Collecting pyzmq==26.0.3
+  Downloading pyzmq-26.0.3-cp38-cp38-manylinux_2_12_x86_64.manylinux2010_x86_64.whl (912 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 912.8/912.8 kB 2.8 MB/s eta 0:00:00
+Collecting regex==2024.5.15
+  Downloading regex-2024.5.15-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (776 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 776.2/776.2 kB 17.4 MB/s eta 0:00:00
+Collecting requests==2.32.3
+  Downloading requests-2.32.3-py3-none-any.whl (64 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 64.9/64.9 kB 2.5 MB/s eta 0:00:00
+Collecting scikit-learn==1.3.2
+  Downloading scikit_learn-1.3.2-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (11.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 11.1/11.1 MB 19.7 MB/s eta 0:00:00
+Collecting scipy==1.10.1
+  Downloading scipy-1.10.1-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (34.5 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 34.5/34.5 MB 14.1 MB/s eta 0:00:00
+Collecting seaborn==0.13.2
+  Downloading seaborn-0.13.2-py3-none-any.whl (294 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 294.9/294.9 kB 10.3 MB/s eta 0:00:00
+Collecting six==1.16.0
+  Downloading six-1.16.0-py2.py3-none-any.whl (11 kB)
+Collecting stack-data==0.6.3
+  Downloading stack_data-0.6.3-py3-none-any.whl (24 kB)
+Collecting tenacity==8.4.0
+  Downloading tenacity-8.4.0-py3-none-any.whl (24 kB)
+Collecting threadpoolctl==3.5.0
+  Downloading threadpoolctl-3.5.0-py3-none-any.whl (18 kB)
+Collecting tiktoken==0.3.3
+  Downloading tiktoken-0.3.3-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (1.7 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.7/1.7 MB 25.6 MB/s eta 0:00:00
+Collecting tornado==6.4.1
+  Downloading tornado-6.4.1-cp38-abi3-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (436 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 436.8/436.8 kB 14.0 MB/s eta 0:00:00
+Collecting tqdm==4.66.4
+  Downloading tqdm-4.66.4-py3-none-any.whl (78 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 78.3/78.3 kB 3.0 MB/s eta 0:00:00
+Collecting traitlets==5.14.3
+  Downloading traitlets-5.14.3-py3-none-any.whl (85 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 85.4/85.4 kB 3.8 MB/s eta 0:00:00
+Collecting typing_extensions==4.12.2
+  Downloading typing_extensions-4.12.2-py3-none-any.whl (37 kB)
+Collecting tzdata==2024.1
+  Downloading tzdata-2024.1-py2.py3-none-any.whl (345 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 345.4/345.4 kB 11.2 MB/s eta 0:00:00
+Collecting urllib3==2.2.1
+  Downloading urllib3-2.2.1-py3-none-any.whl (121 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 121.1/121.1 kB 4.7 MB/s eta 0:00:00
+Collecting wcwidth==0.2.13
+  Downloading wcwidth-0.2.13-py2.py3-none-any.whl (34 kB)
+Collecting Werkzeug==3.0.3
+  Downloading werkzeug-3.0.3-py3-none-any.whl (227 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 227.3/227.3 kB 10.6 MB/s eta 0:00:00
+Collecting xgboost==2.0.3
+  Downloading xgboost-2.0.3-py3-none-manylinux2014_x86_64.whl (297.1 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 297.1/297.1 MB 1.3 MB/s eta 0:00:00
+Collecting xyzservices==2024.6.0
+  Downloading xyzservices-2024.6.0-py3-none-any.whl (83 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 83.9/83.9 kB 1.1 MB/s eta 0:00:00
+Collecting yarl==1.9.4
+  Downloading yarl-1.9.4-cp38-cp38-manylinux_2_17_x86_64.manylinux2014_x86_64.whl (308 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 308.8/308.8 kB 2.6 MB/s eta 0:00:00
+Collecting zipp==3.19.2
+  Downloading zipp-3.19.2-py3-none-any.whl (9.0 kB)
+Collecting zope.event==5.0
+  Downloading zope.event-5.0-py3-none-any.whl (6.8 kB)
+Collecting zope.interface==6.4.post2
+  Downloading zope.interface-6.4.post2-cp38-cp38-manylinux_2_5_x86_64.manylinux1_x86_64.manylinux_2_17_x86_64.manylinux2014_x86_64.whl (250 kB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 250.0/250.0 kB 5.1 MB/s eta 0:00:00
+Collecting setuptools~=63.4.1
+  Downloading setuptools-63.4.3-py3-none-any.whl (1.2 MB)
+     ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 1.2/1.2 MB 17.1 MB/s eta 0:00:00
+Installing collected packages: wcwidth, pytz, pure-eval, ptyprocess, pickleshare, backcall, zipp, xyzservices, urllib3, tzdata, typing_extensions, traitlets, tqdm, tornado, threadpoolctl, tenacity, six, setuptools, regex, pyzmq, python-engineio, pyparsing, Pygments, psutil, prompt_toolkit, platformdirs, pillow, pexpect, parso, packaging, numpy, nest-asyncio, multidict, MarkupSafe, kiwisolver, joblib, itsdangerous, idna, greenlet, frozenlist, fonttools, executing, dnspython, decorator, debugpy, cycler, click, charset-normalizer, certifi, bidict, attrs, async-timeout, zope.interface, zope.event, yarl, Werkzeug, scipy, requests, python-socketio, python-dateutil, plotly, matplotlib-inline, jupyter_core, Jinja2, jedi, importlib_resources, importlib_metadata, eventlet, contourpy, comm, asttokens, aiosignal, xgboost, tiktoken, stack-data, scikit-learn, pandas, matplotlib, jupyter_client, gevent, Flask, branca, aiohttp, seaborn, openai, ipython, gevent-websocket, folium, Flask-SocketIO, Flask-Cors, ipykernel, chat-agent
+Successfully installed Flask-2.2.5 Flask-Cors-3.0.10 Flask-SocketIO-5.3.6 Jinja2-3.1.4 MarkupSafe-2.1.5 Pygments-2.18.0 Werkzeug-3.0.3 aiohttp-3.9.5 aiosignal-1.3.1 asttokens-2.4.1 async-timeout-4.0.3 attrs-23.2.0 backcall-0.2.0 bidict-0.22.1 branca-0.7.2 certifi-2024.6.2 charset-normalizer-3.3.2 chat-agent-0.1.6.7 click-8.1.7 comm-0.2.2 contourpy-1.1.1 cycler-0.12.1 debugpy-1.8.1 decorator-5.1.1 dnspython-2.6.1 eventlet-0.33.3 executing-2.0.1 folium-0.17.0 fonttools-4.53.0 frozenlist-1.4.1 gevent-22.10.2 gevent-websocket-0.10.1 greenlet-3.0.3 idna-3.7 importlib_metadata-7.1.0 importlib_resources-6.4.0 ipykernel-6.29.4 ipython-8.12.3 itsdangerous-2.2.0 jedi-0.19.1 joblib-1.4.2 jupyter_client-8.6.2 jupyter_core-5.7.2 kiwisolver-1.4.5 matplotlib-3.7.5 matplotlib-inline-0.1.7 multidict-6.0.5 nest-asyncio-1.6.0 numpy-1.24.4 openai-0.27.10 packaging-24.1 pandas-2.0.3 parso-0.8.4 pexpect-4.9.0 pickleshare-0.7.5 pillow-10.3.0 platformdirs-4.2.2 plotly-5.22.0 prompt_toolkit-3.0.47 psutil-5.9.8 ptyprocess-0.7.0 pure-eval-0.2.2 pyparsing-3.1.2 python-dateutil-2.9.0.post0 python-engineio-4.4.1 python-socketio-5.8.0 pytz-2024.1 pyzmq-26.0.3 regex-2024.5.15 requests-2.32.3 scikit-learn-1.3.2 scipy-1.10.1 seaborn-0.13.2 setuptools-63.4.3 six-1.16.0 stack-data-0.6.3 tenacity-8.4.0 threadpoolctl-3.5.0 tiktoken-0.3.3 tornado-6.4.1 tqdm-4.66.4 traitlets-5.14.3 typing_extensions-4.12.2 tzdata-2024.1 urllib3-2.2.1 wcwidth-0.2.13 xgboost-2.0.3 xyzservices-2024.6.0 yarl-1.9.4 zipp-3.19.2 zope.event-5.0 zope.interface-6.4.post2
+
+[notice] A new release of pip is available: 23.0.1 -> 24.0
+[notice] To update, run: pip install --upgrade pip
